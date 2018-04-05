@@ -1,6 +1,6 @@
 title: Abstrackr Tutorial
 description:
-modules: []
+modules: [Screening With Abstrackr]
 signups:
 js: [js/jquery.quiz.js, js/mustache.min.js, js/quiz-app.js]
  
