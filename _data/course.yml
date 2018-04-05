@@ -1,6 +1,5 @@
 title: Abstrackr Tutorial
-description: Learn about the Abstrackr - an online tool created and utilized by the Center for Evidence Synthesis in Health
-to streamline the abstract screening process
+description:
 modules: []
 signups:
 js: [js/jquery.quiz.js, js/mustache.min.js, js/quiz-app.js]
